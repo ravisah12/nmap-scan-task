@@ -1,0 +1,27 @@
+# Nmap 7.95 scan initiated Mon Aug  4 05:21:07 2025 as: /usr/lib/nmap/nmap -sS -oN /home/kali/Desktop/portscan.txt 192.168.254.0/24
+Nmap scan report for 192.168.254.1
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.254.1 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:C0:00:08 (VMware)
+
+Nmap scan report for 192.168.254.2
+Host is up (0.00038s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 00:50:56:F3:3B:74 (VMware)
+
+Nmap scan report for 192.168.254.254
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.254.254 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:F0:97:2B (VMware)
+
+Nmap scan report for 192.168.254.128
+Host is up (0.000015s latency).
+All 1000 scanned ports on 192.168.254.128 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Aug  4 05:21:16 2025 -- 256 IP addresses (4 hosts up) scanned in 9.22 seconds
+ 
